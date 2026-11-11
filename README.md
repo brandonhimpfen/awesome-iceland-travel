@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Iceland, covering official tourism portals, road and weather conditions, regional guides, national parks, and safety tools.
 
+Iceland is a dramatic North Atlantic island destination shaped by volcanic fire and glacial ice, featuring geothermal lagoons, black sand beaches, and cascading waterfalls. This list is intended for road-trip travelers, geology enthusiasts, outdoor adventurers, and nature photographers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
